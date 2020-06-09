@@ -1,5 +1,11 @@
 # Marketing Analytics
 
+## How to run
+
+```
+sbt run
+```
+
 ## Given datasets
 
 ### Mobile App clickstream projection
